@@ -1,0 +1,42 @@
+div {
+    background-color: grey;
+}
+
+img{
+    border:6px double black;
+}
+
+
+
+div[id]{
+    color:black;
+}
+
+
+.deck{
+    color:red;
+}
+
+
+a[title]{
+    color:red;
+}
+
+en{
+    color:purple;
+}
+
+
+
+
+ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    Color:blue;
+}
+
+
+
+
+#main-content{
+    color:purple
+}
